@@ -1,0 +1,40 @@
+body{
+    text-align: center;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    background-color: rgb(1, 92, 1);
+}
+button{
+    background-color: goldenrod;
+    padding-left: 1cm;
+    padding-right: 1cm;
+    padding-top: 0.2cm;
+    padding-bottom: 0.2cm;
+    color:  rgb(1, 92, 1);
+    font-weight: bolder;
+    border: 2cm;
+    border-color: goldenrod;
+    border-radius: 5px;
+    margin: 3px;
+}
+#newcard{
+    padding-left: 1.17cm;
+    padding-right: 1.17cm;
+}
+#replayGame{
+    padding: 0.2cm 1.4cm 0.2cm 1.4cm
+}
+h1{
+    color: goldenrod;
+    text-align: center;
+    font-weight: bold;
+}
+#message-el{
+    font-style: italic ;
+    color: white
+}
+#card-el{
+    color: white
+}
+#sum-el{
+    color: white
+}
