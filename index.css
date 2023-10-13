@@ -1,0 +1,42 @@
+body{
+    background-color: rgb(255, 184, 196);
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    font-weight: bold;
+    text-align: center;
+    color: black;
+}
+#increment-btn{
+    background-color: green;
+}
+#increment-btn:hover{
+    background-color: rgb(0, 90, 0);}
+#save-btn{
+    background-color: rgb(255, 187, 0) ;
+}
+#save-btn:hover{background-color: rgb(255, 136, 0);}
+button{
+    background-color: darkred;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    padding-left: 10px;
+    padding-right: 10px; 
+    color: azure;
+    font-weight: bold;
+}
+button:hover{
+    background-color:rgb(75, 1, 1);
+}
+ul{
+    list-style-type: none;
+    background-color: rgb(58, 58, 58);
+}
+li{
+    float: left;
+}
+a{
+    display:block;
+    padding: 10px;
+}
+#save-el{
+    text-decoration-line: underline;
+}
