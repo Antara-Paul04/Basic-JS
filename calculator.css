@@ -1,0 +1,26 @@
+body{
+    text-align: center;
+    text-size-adjust: 5px;
+}
+button{
+    padding-left: 5px;
+    padding-right: 5px;
+    padding-top: 5px;
+    padding-bottom: 5px;
+    text-decoration-color: white;
+}
+button:hover{
+    background-color: black;
+}
+#plus{
+    background-color: green;
+}
+#subtract{
+    background-color: darkred;
+}
+#multiply{
+    background-color: rgb(255, 153, 0);
+}
+#divide{
+    background-color: rgb(29, 0, 194);
+}
